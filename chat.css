@@ -1,0 +1,21 @@
+.text-token-text-secondary{
+
+}
+
+#textbase{
+    background-color: beige;
+}
+
+body{
+    background-color: #c4a484;
+}
+
+a[href="https://docsbot.ai/tools/image/description-generator"] {
+    display: inline-block !important;
+    pointer-events: all !important;
+  }
+  
+  a[href="https://docsbot.ai/tools/image/description-generator"] svg {
+    display: inline-block !important;
+    pointer-events: all !important;
+  }
